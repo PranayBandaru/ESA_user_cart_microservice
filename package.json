@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PranayBandaru/ESA_product_microservice.git"
+    "url": "git+https://github.com/PranayBandaru/ESA_user_cart_microservice.git"
   },
   "author": "Pranay Bandaru",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/PranayBandaru/ESA_product_microservice/issues"
+    "url": "https://github.com/PranayBandaru/ESA_user_cart_microservice/issues"
   },
-  "homepage": "https://github.com/PranayBandaru/ESA_product_microservice#readme"
+  "homepage": "https://github.com/PranayBandaru/ESA_user_cart_microservice#readme"
 }
