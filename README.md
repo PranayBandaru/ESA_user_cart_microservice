@@ -102,7 +102,7 @@ Example successful response:
 [
     {
         "_id": "6073db9d7f5f2161f09cefdd",
-        "userId": "test-user-1",
+        "userId": "test-1",
         "cart": [
             {
                 "productId": "123245ds4234",
