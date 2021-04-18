@@ -1,7 +1,7 @@
 # ESA_product_microservice
  An E-commerce back-end microservice designed to facilitate a user's cart management needs of a business.
  
-## Technologies used:
+## Technologies used
  Node.js
  ExpressJS
  Database: MongoDB
