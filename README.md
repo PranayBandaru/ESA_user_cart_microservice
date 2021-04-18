@@ -38,7 +38,7 @@ This API will not be exposed to the client. Only for adminto hard-code users.
 Example request body:
 ```bash
 {
-    "userId": "test-user-1"
+    "userId": "test-1"
 }
 ```
 
@@ -46,7 +46,7 @@ Example successful response:
 ```bash
 {
     "_id": "6073db9d7f5f2161f09cefdd",
-    "userId": "test-user-1",
+    "userId": "test-1",
     "cart": [],
     "__v": 0
 }
