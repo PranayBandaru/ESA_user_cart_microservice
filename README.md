@@ -2,9 +2,9 @@
  An E-commerce back-end microservice designed to facilitate a user's cart management needs of a business.
  
 ## Technologies used
- Node.js
- ExpressJS
- Database: MongoDB
+Node.js
+ExpressJS
+Database: MongoDB
  
 ## Lisence
  This project is licensed under the Apache License 2.0.
