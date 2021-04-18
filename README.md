@@ -2,8 +2,8 @@
  An E-commerce back-end microservice designed to facilitate a user's cart management needs of a business.
  
 ## Technologies used
-Node.js \n
-ExpressJS \n
+Node.js <br />
+ExpressJS <br />
 Database: MongoDB
  
 ## Lisence
